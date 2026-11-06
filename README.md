@@ -20,4 +20,4 @@
 - docs/TECH_STACK.md：技术选型建议，未初始化工程。
 - AGENTS.md：长期协作边界。
 
-正式 frontend/、backend/ 在对应学习阶段由用户初始化。本地 Git 已初始化并完成首次提交；GitHub 上传正在准备。当前没有安装依赖、开发业务、部署或连接真实数据。
+正式 frontend/、backend/ 在对应学习阶段由用户初始化。本地 Git 已初始化，main 分支已上传并关联 GitHub：[junhao-zhang7/PiggyMemo](https://github.com/junhao-zhang7/PiggyMemo)。当前没有安装依赖、开发业务、部署或连接真实数据。
